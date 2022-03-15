@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://im4.ezgif.com/tmp/ezgif-4-5872ab928c.gif
+
+https://imgur.com/HTkYEz3
