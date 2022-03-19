@@ -31,7 +31,6 @@ Here's a walkthrough of implemented user stories:
 try either link
 https://i.imgur.com/fDsyb0A
 
-https://im5.ezgif.com/tmp/ezgif-5-ed9b69ce1c.gif
 
 ## User Stories
 
